@@ -1,3 +1,0 @@
-# HadoopStudy
-
-Hello world
